@@ -1,0 +1,71 @@
+import React from 'react';
+import Image from 'next/image';
+
+const StableEarnings = () => {
+  return (
+    <section className="section-padding">
+      <div className="container mx-auto mobile-container">
+        <div className="card max-w-5xl mx-auto overflow-hidden">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8 items-center">
+            <div className="p-6 md:p-8 lg:p-10">
+              <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-4 text-balance">
+                STABLE EARNINGS
+              </h2>
+              <p className="text-sm md:text-base text-gray-600 mb-6">
+                Every transaction in the GachaPeng ecosystem generates real revenue, creating 
+                sustainable value for all token holders.
+              </p>
+              
+              <ul className="space-y-4">
+                <li className="flex items-start">
+                  <span className="text-primary font-bold text-lg mr-2">•</span>
+                  <div>
+                    <h3 className="text-lg font-bold mb-1">Revenue Generation</h3>
+                    <p className="text-sm md:text-base text-gray-600">
+                      Gacha rolls cost ETH, creating a steady stream of revenue regardless of market conditions.
+                    </p>
+                  </div>
+                </li>
+                
+                <li className="flex items-start">
+                  <span className="text-primary font-bold text-lg mr-2">•</span>
+                  <div>
+                    <h3 className="text-lg font-bold mb-1">Deflationary Mechanics</h3>
+                    <p className="text-sm md:text-base text-gray-600">
+                      98% of revenue goes to buying back $PENG, creating consistent buying pressure.
+                    </p>
+                  </div>
+                </li>
+                
+                <li className="flex items-start">
+                  <span className="text-primary font-bold text-lg mr-2">•</span>
+                  <div>
+                    <h3 className="text-lg font-bold mb-1">Price Stability</h3>
+                    <p className="text-sm md:text-base text-gray-600">
+                      The continuous buyback mechanism helps maintain price stability even during market downturns.
+                    </p>
+                  </div>
+                </li>
+              </ul>
+              
+              <button className="btn btn-primary mt-8">
+                Learn More
+              </button>
+            </div>
+            
+            <div className="relative min-h-[300px] md:min-h-[400px] w-full">
+              <Image 
+                src="/penguin-earnings.png" 
+                fill
+                className="object-cover rounded-tr-xl rounded-br-xl"
+                alt="Penguin with earnings" 
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default StableEarnings; 
