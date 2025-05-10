@@ -55,7 +55,7 @@ const Footer = () => {
                 height={40}
                 className="mr-3 hover-lift"
               />
-              <h3 className="text-xl font-bold text-gradient">PINGU</h3>
+              <h3 className="text-xl font-bold text-gradient">GOTCHA PINGU</h3>
             </div>
             
             <div className="max-w-md text-center mb-8">
@@ -101,7 +101,7 @@ const Footer = () => {
           <div className="w-full max-w-3xl border-t border-gray-200 pt-6 mt-2">
             <div className="flex flex-col md:flex-row justify-between items-center text-sm text-gray-500">
               <p>
-                © {currentYear} Pingu. All rights reserved.
+                © {currentYear} Gotcha Pingu. All rights reserved.
               </p>
               <div className="mt-4 md:mt-0 flex space-x-6">
                 <Link href="/" className="hover:text-primary transition-colors">Terms</Link>

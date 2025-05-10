@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ['cdn.pingu.xyz', 'cdn.gachapeng.xyz'],
+    domains: ['cdn.gotchapingu.xyz', 'cdn.gachapeng.xyz'],
   },
 };
 

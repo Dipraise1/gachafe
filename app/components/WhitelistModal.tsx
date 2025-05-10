@@ -30,7 +30,7 @@ const WhitelistModal: React.FC<WhitelistModalProps> = ({ isOpen, onClose }) => {
           <div className="text-center mb-4">
             <h2 className="text-3xl font-bold">FreeMint Whitelist</h2>
             <p className="text-gray-700 mt-2">
-              1,000 winners get Pingu NFTs earning <span className="text-primary font-bold">$10/day</span>
+              1,000 winners get Gotcha Pingu NFTs earning <span className="text-primary font-bold">$10/day</span>
             </p>
           </div>
 
@@ -47,7 +47,7 @@ const WhitelistModal: React.FC<WhitelistModalProps> = ({ isOpen, onClose }) => {
               <div className="relative w-24 h-24 mb-4">
                 <Image 
                   src="/images/penguin.png" 
-                  alt="Pingu NFT" 
+                  alt="Gotcha Pingu NFT" 
                   fill
                   className="object-contain"
                 />

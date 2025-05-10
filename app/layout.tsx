@@ -12,8 +12,8 @@ const onest = localFont({
 });
 
 export const metadata: Metadata = {
-  title: 'Pingu',
-  description: 'Pingu is a playful GameFi project where users earn tokens and compete for land ownership in a ETH-powered economy.',
+  title: 'Gotcha Pingu',
+  description: 'Gotcha Pingu is a playful GameFi project where users earn tokens and compete for land ownership in a ETH-powered economy.',
 };
 
 // Google Analytics Component

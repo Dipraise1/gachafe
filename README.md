@@ -1,6 +1,6 @@
-# Pingu Landing Page
+# Gotcha Pingu Landing Page
 
-This is a replica of the Pingu landing page, built with Next.js and Tailwind CSS.
+This is a replica of the Gotcha Pingu landing page, built with Next.js and Tailwind CSS.
 
 ## Features
 
@@ -20,8 +20,8 @@ This is a replica of the Pingu landing page, built with Next.js and Tailwind CSS
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pingu.git
-cd pingu
+git clone https://github.com/yourusername/gotchapingu.git
+cd gotchapingu
 ```
 
 2. Install dependencies:

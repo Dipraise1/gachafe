@@ -93,7 +93,7 @@ const SimpleHero = () => {
               className="mr-2 w-8 h-8 md:w-9 md:h-9"
             />
             <div className="flex flex-col items-start">
-              <span className="font-bold text-base md:text-xl">PINGU</span>
+              <span className="font-bold text-base md:text-xl">GOTCHA PINGU</span>
             </div>
           </div>
           <div className="flex space-x-2">
@@ -118,7 +118,7 @@ const SimpleHero = () => {
         <div className="block lg:hidden">
           <div className="text-center stagger-fade-in">
             <h1 className="text-[3.5rem] sm:text-[5rem] font-bold text-gradient leading-none tracking-tight">
-              PINGU
+              GOTCHA
             </h1>
             <h1 className="text-[3.5rem] sm:text-[5rem] font-bold text-gradient leading-none tracking-tight mt-2">
               PINGU
@@ -202,7 +202,7 @@ const SimpleHero = () => {
           <div className="flex items-center stagger-fade-in">
             <div className="w-1/2">
               <h1 className="text-[6rem] xl:text-[8rem] font-bold text-gradient leading-none">
-                PINGU
+                GOTCHA
               </h1>
               <div className="mt-8">
                 <h2 className="text-2xl font-bold mb-4">98% REVENUE FOR BUYBACK</h2>

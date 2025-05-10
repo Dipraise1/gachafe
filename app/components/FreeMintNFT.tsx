@@ -76,7 +76,7 @@ const FreeMintNFT = () => {
                 FREE MINT NFT
               </h2>
               <p className="text-sm md:text-base text-gray-600 mb-6">
-                Our exclusive NFT collection offers unique benefits and utility within the Pingu ecosystem.
+                Our exclusive NFT collection offers unique benefits and utility within the Gotcha Pingu ecosystem.
               </p>
               
               <div className="space-y-5">
@@ -106,7 +106,7 @@ const FreeMintNFT = () => {
                     Community Governance
                   </h3>
                   <p className="text-sm md:text-base text-gray-600">
-                    Have your say in the future development of Pingu through exclusive voting rights.
+                    Have your say in the future development of Gotcha Pingu through exclusive voting rights.
                   </p>
                 </div>
               </div>
