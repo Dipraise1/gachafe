@@ -87,12 +87,14 @@ const SimpleHero = () => {
           <div className="flex items-center">
             <Image 
               src="/favicon.ico" 
-              alt="GachaPeng Logo" 
+              alt="Pingu Logo" 
               width={36} 
               height={36} 
               className="mr-2 w-8 h-8 md:w-9 md:h-9"
             />
-            <span className="font-bold text-base md:text-xl">GACHA PENG</span>
+            <div className="flex flex-col items-start">
+              <span className="font-bold text-base md:text-xl">PINGU</span>
+            </div>
           </div>
           <div className="flex space-x-2">
             <a 
@@ -116,10 +118,10 @@ const SimpleHero = () => {
         <div className="block lg:hidden">
           <div className="text-center stagger-fade-in">
             <h1 className="text-[3.5rem] sm:text-[5rem] font-bold text-gradient leading-none tracking-tight">
-              GACHA
+              PINGU
             </h1>
             <h1 className="text-[3.5rem] sm:text-[5rem] font-bold text-gradient leading-none tracking-tight mt-2">
-              PENGUINS
+              PINGU
             </h1>
             
             <div className="mt-8">
@@ -137,7 +139,7 @@ const SimpleHero = () => {
                     <span>Discord</span>
                   </a>
                   <a 
-                    href="https://twitter.com/gacha_peng" 
+                    href="https://twitter.com/pingu" 
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className="flex items-center px-2.5 py-1 bg-gray-100 rounded-full text-xs sm:text-sm hover-lift"
@@ -200,7 +202,7 @@ const SimpleHero = () => {
           <div className="flex items-center stagger-fade-in">
             <div className="w-1/2">
               <h1 className="text-[6rem] xl:text-[8rem] font-bold text-gradient leading-none">
-                GACHA
+                PINGU
               </h1>
               <div className="mt-8">
                 <h2 className="text-2xl font-bold mb-4">98% REVENUE FOR BUYBACK</h2>
@@ -217,7 +219,7 @@ const SimpleHero = () => {
                       <span>Discord</span>
                     </a>
                     <a 
-                      href="https://twitter.com/gacha_peng" 
+                      href="https://twitter.com/pingu" 
                       target="_blank" 
                       rel="noopener noreferrer" 
                       className="flex items-center px-3 py-1 bg-gray-100 rounded-full text-sm hover-lift"
@@ -232,7 +234,7 @@ const SimpleHero = () => {
             
             <div className="w-1/2 flex items-center justify-end">
               <h1 className="text-[6rem] xl:text-[8rem] font-bold text-gradient leading-none">
-                PENGUINS
+                PINGU
               </h1>
             </div>
           </div>

@@ -24,7 +24,7 @@ const Navbar = () => {
               style={{ backgroundImage: 'url("/background-image.png")' }}
             ></div>
           </div>
-          <span className="text-md sm:text-2xl font-extrabold uppercase font-onest text-[#222222] hidden md:block">Gacha peng</span>
+          <span className="text-md sm:text-2xl font-extrabold uppercase font-onest text-[#222222] hidden md:block">Pingu</span>
         </Link>
         
         <div className="flex items-center gap-3 sm:gap-4">

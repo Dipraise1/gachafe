@@ -12,8 +12,8 @@ const onest = localFont({
 });
 
 export const metadata: Metadata = {
-  title: 'GachaPeng',
-  description: 'Gacha Peng is a playful GameFi project where users summon pixel penguins, earn tokens, and compete for land ownership in a ETH-powered economy.',
+  title: 'Pingu',
+  description: 'Pingu is a playful GameFi project where users earn tokens and compete for land ownership in a ETH-powered economy.',
 };
 
 // Google Analytics Component

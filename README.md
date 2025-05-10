@@ -1,6 +1,6 @@
-# GachaPeng Landing Page
+# Pingu Landing Page
 
-This is a replica of the GachaPeng landing page, built with Next.js and Tailwind CSS.
+This is a replica of the Pingu landing page, built with Next.js and Tailwind CSS.
 
 ## Features
 
@@ -20,8 +20,8 @@ This is a replica of the GachaPeng landing page, built with Next.js and Tailwind
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gachapeng.git
-cd gachapeng
+git clone https://github.com/yourusername/pingu.git
+cd pingu
 ```
 
 2. Install dependencies:
